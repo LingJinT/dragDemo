@@ -1,7 +1,7 @@
 
 ## Simple
 
-> A TypeScript simple template
+一个简单的基于React-dnd的Demo
 
 ## 使用
 
